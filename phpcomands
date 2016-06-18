@@ -1,1 +1,3 @@
 var_dump => Dumps information about a variable
+:: => The Scope Resolution Operator (also called Paamayim Nekudotayim) or in simpler terms, 
+the double colon, is a token that allows access to static, constant, and overridden properties or methods of a class.
